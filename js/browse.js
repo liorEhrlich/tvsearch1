@@ -1,5 +1,6 @@
 Browse = {}
 
+
 window.onpopstate = function(event) {
   // "event" object seems to contain value only when the back button is clicked
   // and if the pop state event fires due to clicks on a button
